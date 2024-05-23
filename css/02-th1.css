@@ -1,0 +1,22 @@
+h1{
+    color: rgb(255, 179, 0);
+}
+h2{
+    display: flex;
+    font-size: 20px;
+}
+.papa{
+    width: 308px;
+}
+.papa li{
+    list-style: none; /*xóa dấu chấm trong thẻ ul li*/
+    text-align: left;
+}
+.papa ul{
+    padding: 0px;
+    margin: 0px;
+}
+.papa p{
+    display:flex 
+}
+
